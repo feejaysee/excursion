@@ -35,3 +35,7 @@ h3 {
   text-align: right;
   color: gray;
 }
+
+.block-image {
+  display: block;
+}
